@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mathbech
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS, PHP
 - 💞️ I’m looking to collaborate on project of MULTITASK BOT
 - 📫 How to reach me send a email at legeek.you@gmail.com
 
