@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mathbech
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, JS, PHP
-- 💞️ I’m looking to own on project of MULTITASK BOT
-- 📫 How to reach me send a email at contact@bebech.fr
+# Salut, Je suis Bébech
+-------------------------------------------------------------------------------
+J'étudie actuellenment les langages suivant: HTML, CSS, JS, PHP
+Je suis actuellement le directeur de projet d'un bot discord nomé MultitaskBOT
+Si vous voulez des infos supplémentaies, contactez-moi à contact@bebech.fr
 
 <!---
 Mathbech/Mathbech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
