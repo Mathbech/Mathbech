@@ -14,8 +14,12 @@
 Actuellement j'ai utilisé ces langages dans mes dépôts:
 
 Fiche de langage à venir.
+<!--- 
+[![GitHub top language](https://img.shields.io/github/languages/top/Mathbech.svg)](https://github.com/Mathbech)
 
-[![GitHub top language](https://img.shields.io/github/languages/top/Mathbech/.svg)](https://github.com/Mathbech/)
+
+[![GitHub top language](https://img.shields.io/github/languages/top/Mathbech.svg)](https://github.com/Mathbech)
+---!>
 
 
 <!---
