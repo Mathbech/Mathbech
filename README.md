@@ -3,9 +3,15 @@
 - Je suis actuellement en BTS SIO première année avec option SLAM (Solution Matériel et Application Métier)
 - J'étudie actuellenment les langages suivant: HTML, CSS, JS, PHP
 
-- J'ai actuellement un projet de bot discord qui se nome MultitaskBOT
+- J'ai actuellement un projet de bot discord qui se nome MultitaskBOT. [lien d'ajout](https://urlz.fr/kaE2)
 - Je suis actuellement propriétaire d'un site internet qui est: [bebech.fr](https://www.bebech.fr).
 
+
+------------------------------------------------------------------------------
+### Liens utiles
+
+[site web](https://www.bebech.fr)</br>
+[site pour Multitask](https://www.bebech.fr/multitask)</br>
 ------------------------------------------------------------------------------
 Actuellement j'ai utilisé ces langages dans mes dépôts:
 
