@@ -16,14 +16,7 @@
 
 Actuellement j'ai utilisé ces langages dans mes dépôts:
 
-<img align="center" src="[https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://github-readme-stats.vercel.app/api/top-langs?username=Mathbech&show_icons=true&locale=en&layout=compact)">
-<!--- 
-[![GitHub top language](https://img.shields.io/github/languages/top/Mathbech.svg)](https://github.com/Mathbech)
-
-
-[![GitHub top language](https://img.shields.io/github/languages/top/Mathbech.svg)](https://github.com/Mathbech)
----!>
-
+<img align='center' src='https://github-readme-stats.vercel.app/api/top-langs?username=Mathbech&show_icons=true&locale=en&layout=compact'>
 
 <!---
 Mathbech/Mathbech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
