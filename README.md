@@ -11,9 +11,11 @@
 - [Site web](https://www.bebech.fr)
 - [Site pour Multitask](https://www.bebech.fr/multitask)
 ------------------------------------------------------------------------------
-Actuellement j'ai utilisé ces langages dans mes dépôts:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mathbech&show_icons=true&theme=tokyonight">
+
+Actuellement j'ai utilisé ces langages dans mes dépôts:
+
 <!--- 
 [![GitHub top language](https://img.shields.io/github/languages/top/Mathbech.svg)](https://github.com/Mathbech)
 
