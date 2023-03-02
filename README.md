@@ -1,6 +1,6 @@
 # Bonjour 👋, Je suis Bébech!
 -------------------------------------------------------------------------------
-- Je suis actuellement en BTS SIO première année avec option SLAM (Solution Matériel et Application Métier)
+- Je suis actuellement en BTS SIO première année avec option SLAM (Solution Logiciel et Application Métier)
 - J'étudie actuellenment les langages suivant: HTML, CSS, JS, PHP, C#
 
 - J'ai actuellement un projet de bot discord qui se nome MultitaskBOT [lien d'ajout](https://urlz.fr/kaE2).
