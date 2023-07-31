@@ -9,7 +9,7 @@
 ### Liens utiles
 
 - [Site web](https://www.bebech.fr)
-- [Site pour Multitask](https://www.bebech.fr/multitask)
+- [Site pour Multitask](https://multitask.bebech.fr/)
 ------------------------------------------------------------------------------
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mathbech&show_icons=true&theme=tokyonight">
