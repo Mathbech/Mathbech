@@ -13,7 +13,7 @@
 - [Site pour Multitask](https://multitask.bebech.fr/)
 ------------------------------------------------------------------------------
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mathbech&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=Mathbech&show_icons=true&theme=ocean_dark">
 
 Actuellement j'ai utilisé ces langages dans mes dépôts:
 
