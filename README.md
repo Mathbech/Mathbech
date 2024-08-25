@@ -1,6 +1,6 @@
 # Bonjour 👋, Je suis Bébech!
 -------------------------------------------------------------------------------
-- Je suis actuellement en BTS SIO seconde année avec option SLAM (Solution Logiciel et Application Métier)
+- Je suis actuellement en Bachelor Concepteur Développeur Web et Mobile
 - J'étudie actuellenment les langages suivant: HTML, CSS, JS, PHP, C#
 - J'étudie aussi les frameworks comme Symfony et Flutter
 
@@ -11,6 +11,7 @@
 
 - [Site web](https://www.bebech.fr)
 - [Site pour Multitask](https://multitask.bebech.fr/)
+- [Filamentgestion](https://filamentgestion.fr)
 ------------------------------------------------------------------------------
 
 <img src="https://github-readme-stats.vercel.app/api?username=Mathbech&show_icons=true&theme=ocean_dark">
