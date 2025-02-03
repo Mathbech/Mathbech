@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------
 - Je suis actuellement en Bachelor Concepteur Développeur Web et Mobile
 - J'étudie actuellenment les langages suivant: HTML, CSS, JS, PHP, C#
-- J'étudie aussi les frameworks comme Symfony, laravel et Flutter
+- J'étudie aussi les frameworks comme Symfony, vueJs et Flutter
 
 - J'ai actuellement un projet de bot discord qui se nomme MultitaskBOT [lien d'ajout](https://urlz.fr/kaE2).
 - Je suis actuellement propriétaire d'un site internet qui est: [bebech.fr](https://www.bebech.fr).
