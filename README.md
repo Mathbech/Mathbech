@@ -1,6 +1,6 @@
 # Bonjour 👋, Je suis Bébech!
 -------------------------------------------------------------------------------
-- Je suis actuellement en Bachelor Concepteur Développeur Web et Mobile
+- Je suis actuellement Développeur Web et Mobile pour Lije-Technologies
 - J'étudie actuellenment les langages suivant: HTML, CSS, JS, PHP, C#
 - J'étudie aussi les frameworks comme Symfony, vueJs et Flutter
 
